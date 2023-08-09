@@ -20,6 +20,7 @@ Cloud Services Used
 
 Amazon Web Services
 1. S3 Storage
+   
 Microsoft Azure
 1. Azure Blob Storage
 
